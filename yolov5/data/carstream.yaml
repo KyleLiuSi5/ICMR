@@ -1,0 +1,8 @@
+train: ../../dataset/ivslab_train/ImageSets/images.txt
+val: ../../dataset/ivslab_train/ImageSets/images.txt
+
+# number of classes
+nc: 5
+
+# class names
+names: ['None', 'vehicle', 'pedestrian', 'scooter', 'bicycle']
